@@ -107,7 +107,9 @@ Visualization
 Cumulative profit over time:
 
 
-Trade entries and exits plotted on price chart:
+
+![download](https://github.com/user-attachments/assets/813f1fde-eb8b-4e53-a0af-975a25bad6cd)
+
 
 
 Contribution
@@ -117,4 +119,6 @@ Feel free to modify and improve the script. If you encounter any issues or have 
 Disclaimer
 
 This project is for educational and research purposes only. Trading involves risks, and past performance is not indicative of future results. Use this strategy at your own discretion.
+
+
 
