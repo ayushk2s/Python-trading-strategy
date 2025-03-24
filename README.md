@@ -92,9 +92,16 @@ A cumulative profit chart is generated.
 
 Buy/sell markers are plotted on the price chart for reference.
 
-Example Trade Output
+Example Trade Output:
+
+
+![Figure_1](https://github.com/user-attachments/assets/a627371a-2060-44d5-99a9-7740a7505009)
+
+
+
 
 MACD Columns: Index(['MACD_8_17_9', 'MACDh_8_17_9', 'MACDs_8_17_9'], dtype='object')
+
 Total Bullish Signals: 1031
 
 Total Bearish Signals: 909
@@ -104,15 +111,25 @@ Total Bearish Signals: 909
 0   2025-03-11 06:00:00 2025-03-11 06:03:00  ...  Take Profit Hit         101.548582
 
 1   2025-03-11 06:06:00 2025-03-11 06:21:00  ...  Take Profit Hit         103.533908
+
 2   2025-03-11 06:24:00 2025-03-11 06:27:00  ...    Stop Loss Hit         101.611767
+
 3   2025-03-11 07:03:00 2025-03-11 07:30:00  ...  Take Profit Hit         104.581096
+
 4   2025-03-11 07:33:00 2025-03-11 08:42:00  ...  Take Profit Hit         106.648026
+
 ..                  ...                 ...  ...              ...                ...
+
 364 2025-03-20 17:33:00 2025-03-20 17:48:00  ...    Stop Loss Hit         121.141605
+
 365 2025-03-20 17:51:00 2025-03-20 18:00:00  ...    Stop Loss Hit         120.853888
+
 366 2025-03-20 19:18:00 2025-03-20 19:21:00  ...    Stop Loss Hit         120.447055
+
 367 2025-03-20 19:39:00 2025-03-20 19:45:00  ...  Take Profit Hit         121.207074
+
 368 2025-03-20 19:48:00 2025-03-20 20:03:00  ...    Stop Loss Hit         120.571366
+
 
 [369 rows x 8 columns]
 
