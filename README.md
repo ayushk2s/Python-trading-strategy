@@ -96,9 +96,13 @@ Example Trade Output
 
 MACD Columns: Index(['MACD_8_17_9', 'MACDh_8_17_9', 'MACDs_8_17_9'], dtype='object')
 Total Bullish Signals: 1031
+
 Total Bearish Signals: 909
+
              Entry_Time           Exit_Time  ...      Exit_Reason  Cumulative_Return
+             
 0   2025-03-11 06:00:00 2025-03-11 06:03:00  ...  Take Profit Hit         101.548582
+
 1   2025-03-11 06:06:00 2025-03-11 06:21:00  ...  Take Profit Hit         103.533908
 2   2025-03-11 06:24:00 2025-03-11 06:27:00  ...    Stop Loss Hit         101.611767
 3   2025-03-11 07:03:00 2025-03-11 07:30:00  ...  Take Profit Hit         104.581096
